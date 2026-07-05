@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="[PASTE_YOUR_IMAGE_URL_HERE" width="100%" alt="GitHub Banner](https://github.com/syedhaiderali-cs/syedhaiderali-cs/blob/main/github-banner.png)">
+</p>
+
+<br>
 # Syed Haider Ali
 
 Computer Science Student | Aspiring AI Automation Engineer
